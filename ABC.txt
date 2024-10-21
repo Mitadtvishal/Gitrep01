@@ -3,3 +3,4 @@ how are you
 Python
 Welcome to datamites
 our Courses are data scientist and data analytics
+THANK you
